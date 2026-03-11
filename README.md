@@ -32,6 +32,10 @@ CarCare is a clean, modern Flutter app for tracking all your vehicle's essential
 - **Routing**: GoRouter
 - **Notifications**: `flutter_local_notifications`
 
+## 📦 Download APK
+
+[Download Latest APK](https://github.com/iXSavage/carcare/releases/tag/v1.0.0)
+
 ## Getting Started
 
 ### Prerequisites
